@@ -9,7 +9,7 @@ Code it. Edit it. Slay it. :)
 
 -  Fact: **I can code, edit videos and still slay a GRWM ^-^**
 
--  Reach me at **molka.belakhdar@ecoles-epsi.net**
+-  Reach me at **molkabelakhdar@gmail.com**
 
 <h3 align="center">Languages & Tools</h3>
 
