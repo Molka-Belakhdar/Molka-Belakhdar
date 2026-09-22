@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I’m Molka :^ </h1>
-<h3 align="center">2nd year Computer Science student </h3>
+<h3 align="center">3rd year Computer Science student </h3>
 
 <p align="center">
 Code it. Edit it. Slay it. :)
